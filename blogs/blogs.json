@@ -1,0 +1,14 @@
+{
+  "repo": "herbie-herbie-plan",
+  "feeds": [
+    {
+      "source": "https://herbieplan.com/pricing",
+      "feed_url": "https://herbieplan.com/pricing",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}

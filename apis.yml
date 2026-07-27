@@ -1,8 +1,27 @@
 aid: herbie-herbie-plan
 name: Herbie, Herbie Plan
-description: Herbie, Herbie Plan is a company surfaced as a portfolio company of 500-global and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Herbie is an AI-powered estate planning platform and law firm that lets
+  individuals and partner organizations create wills, trusts, and related legal
+  documents online. Its agentic engine encodes the principles, laws, and
+  practice of estate planning into a system that drafts and assembles documents
+  at scale, paired with an AI copilot for natural-language guidance and optional
+  attorney review through Herbie Legal. Herbie is offered directly to consumers
+  and as an embeddable "estate planning as a service" offering for wealth
+  management firms, insurance companies, and employers. Herbie was surfaced as a
+  portfolio company of 500 Global and added to the API Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/5QDf50coNW3H1vSi6DYfOJLrUpY.png
 url: https://raw.githubusercontent.com/api-evangelist/herbie-herbie-plan/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Estate Planning
+- Legal Technology
+- Wills and Trusts
+- Artificial Intelligence
+- Wealth Management
+- Document Automation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,22 @@ maintainers:
 common:
 - type: Website
   url: https://herbieplan.com
+- type: Pricing
+  url: https://herbieplan.com/pricing
+- type: Blog
+  url: https://herbieplan.com/resources
+- type: SignUp
+  url: https://app.herbieplan.com/auth/signup
+- type: TermsOfService
+  url: https://herbieplan.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://herbieplan.com/privacy-policy
+- type: Support
+  url: https://herbieplan.com/partnerform
+- type: DomainSecurity
+  url: security/herbie-herbie-plan-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
