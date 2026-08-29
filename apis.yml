@@ -10,6 +10,17 @@ description: >-
   and as an embeddable "estate planning as a service" offering for wealth
   management firms, insurance companies, and employers. Herbie was surfaced as a
   portfolio company of 500 Global and added to the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
