@@ -1,15 +1,12 @@
 aid: herbie-herbie-plan
-name: Herbie, Herbie Plan
-description: >-
-  Herbie is an AI-powered estate planning platform and law firm that lets
-  individuals and partner organizations create wills, trusts, and related legal
-  documents online. Its agentic engine encodes the principles, laws, and
-  practice of estate planning into a system that drafts and assembles documents
-  at scale, paired with an AI copilot for natural-language guidance and optional
-  attorney review through Herbie Legal. Herbie is offered directly to consumers
-  and as an embeddable "estate planning as a service" offering for wealth
-  management firms, insurance companies, and employers. Herbie was surfaced as a
-  portfolio company of 500 Global and added to the API Evangelist network.
+name: Herbie
+description: Herbie is an AI-powered estate planning platform and law firm that lets individuals and partner
+  organizations create wills, trusts, and related legal documents online. Its agentic engine encodes the
+  principles, laws, and practice of estate planning into a system that drafts and assembles documents
+  at scale, paired with an AI copilot for natural-language guidance and optional attorney review through
+  Herbie Legal. Herbie is offered directly to consumers and as an embeddable "estate planning as a service"
+  offering for wealth management firms, insurance companies, and employers. Herbie was surfaced as a portfolio
+  company of 500 Global and added to the API Evangelist network.
 deliveryModel:
   model: saas
   open_source: false
@@ -42,7 +39,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 tags:
 - Company
 - Estate Planning
@@ -87,3 +84,5 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-aliases:
+- Herbie Plan
